@@ -1,1 +1,1 @@
-# M2-EMBEDDED_HouseHoldApplianceAutomation
+# M2-EMBEDDED_HouseHoldAppliance
