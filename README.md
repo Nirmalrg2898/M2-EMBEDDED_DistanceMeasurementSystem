@@ -11,3 +11,11 @@
 ##### Hardware: ATmega328, Power supply (5v), LCD hd_44780_E, 1000uF capacitor, 10KΩ resistor (2 pieces) , HC-SR04 sensor.
 ##### Software: Simulide, Visual Studios.
 
+## Folder Structure
+Folder               | Description
+-------------------  | -----------------------------------------
+`1_Requirements`     | Documents Detailing requirements and research.
+`2_Design_diagram`     | Documents Specifying design details.
+`3_Implementation`   | All Code and Documentation.
+`4_TestPlan`| Test Cases.
+
