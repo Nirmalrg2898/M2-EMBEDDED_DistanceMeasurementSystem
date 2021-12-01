@@ -9,6 +9,6 @@
 
 #### Components Required
 
-##### Hardware: ATMEGA32, Power supply (5v), AVR-ISP PROGRAMMER, JHD_162ALCD (16x2LCD), 1000uF capacitor, 10KΩ resistor (2 pieces) , HC-SR04 sensor.
-##### Software: Atmel studio 6.1, progisp or flash magic.
+##### Hardware: ATmega328, Power supply (5v), LCD hd_44780_E, 1000uF capacitor, 10KΩ resistor (2 pieces) , HC-SR04 sensor.
+##### Software: Simulide, Visual Studios.
 
