@@ -4,3 +4,6 @@
 
 
 [![Cppcheck](https://github.com/Nirmalrg2898/M2-EMBEDDED_DistanceMeasurementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nirmalrg2898/M2-EMBEDDED_DistanceMeasurementSystem/actions/workflows/cppcheck.yml)
+
+
+[![Build](https://github.com/Nirmalrg2898/M2-EMBEDDED_DistanceMeasurementSystem/actions/workflows/compile.yml/badge.svg)](https://github.com/Nirmalrg2898/M2-EMBEDDED_DistanceMeasurementSystem/actions/workflows/compile.yml)
